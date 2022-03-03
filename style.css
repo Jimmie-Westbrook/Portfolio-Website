@@ -6,7 +6,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 35%;
   border: 3px solid black
 } /* This center my photo and adds a border */
 
@@ -27,10 +27,10 @@ ol {
   box-sizing: border-box;
   margin: 8px;
   padding: 2px;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 } /* This assigns everything a border box, sets the margin size, and sets the padding size */
 
 p {
@@ -39,10 +39,10 @@ p {
 
 hr {
   background-color: black;
-  margin-left: 10px;
-  margin-right: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 } /* This assigns a color to the horizonal line ruler */
 
 h2 {

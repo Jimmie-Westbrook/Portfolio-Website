@@ -1,23 +1,18 @@
 h1 {
   text-align: center;
-  margin-top: 30px;
-  padding-top: 30px;
 } /* This center my most important header */
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 35%;
+  width: 40%;
   border: 3px solid black
 } /* This center my photo and adds a border */
 
 body {
   text-align: center;
   background-color: powderblue;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%
  } /*This adds a nice background color to the whole webpage and centers the body*/
 
 ul {
@@ -30,8 +25,9 @@ ol {
 
 * {
   box-sizing: border-box;
-  margin: 8px;
-  padding: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%
 } /* This assigns everything a border box, sets the margin size, and sets the padding size */
 
 p {

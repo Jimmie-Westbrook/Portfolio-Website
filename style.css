@@ -25,10 +25,8 @@ ol {
 
 * {
   box-sizing: border-box;
-  margin-left: auto;
-  margin-right: auto;
-  padding: auto;
-  width: 70%
+  margin: 8px;
+  padding: 2px;
 } /* This assigns everything a border box, sets the margin size, and sets the padding size */
 
 p {

@@ -48,9 +48,8 @@ h3 {
 } /* This assigns the font "Arial" and the desired font size to the third most important header */
 
 * {
-  height: auto;
-  border: 2px solid black; 
-} /* assigns height property to auto like I wanted without this setting. also adds a border */
+  height: auto; 
+} /* assigns height property to auto like I wanted without this setting */
 
 a:link    { color: #8b008b;  }
 a:visited { color: #872657;   }

@@ -7,4 +7,42 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border: 3px solid black
+}
+
+body {
+  text-align: center;
+  background-color: powderblue;
+}
+
+ul {
+  display: inline-block;
+}
+
+ol {
+  display: inline-block;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 8px;
+  padding: 2px;
+}
+
+p {
+  font-family: "Arial";
+}
+
+hr {
+  background-color: black;
+}
+
+h2 {
+  font-family: "Arial";
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Arial";
+  font-size: 25px;
 }

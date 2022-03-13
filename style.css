@@ -35,7 +35,7 @@ p {
 } /* This assigns the font "Arial" to every paragraph */
 
 hr {
-  background-color: black;
+  background-color: #e4007c;
 } /* This assigns a color to the horizonal line ruler */
 
 h2 {

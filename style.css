@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  border: 3px solid black;
 } /* This center my most important header */
 
 .center {
@@ -40,11 +41,13 @@ hr {
 h2 {
   font-family: "Arial";
   font-size: 30px;
+  border: 3px solid black; 
 } /* This assigns the font "Arial" and the desired font size to the second most important header */
 
 h3 {
   font-family: "Arial";
   font-size: 25px;
+  border: 3px solid black;
 } /* This assigns the font "Arial" and the desired font size to the third most important header */
 
 * {

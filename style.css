@@ -53,12 +53,8 @@ h3 {
 } /* This assigns the font "Arial" and the desired font size to the third most important header */
 
 * {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 200px;
-  height: 200px;
-  margin: -100px 0 0 -100px;
+  height: auto;
+  margin: auto;
 } 
 a:link    { color: #8b008b;  }
 a:visited { color: #872657;   }

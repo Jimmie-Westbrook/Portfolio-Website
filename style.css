@@ -17,10 +17,12 @@ body {
 
 ul {
   display: inline-block;
+  text-align: center;
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
   display: inline-block;
+  display: center;
 } /* This pulls the numbers for the order list to the center */
 
 * {

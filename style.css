@@ -17,12 +17,12 @@ body {
 
 ul {
   display: inline-block;
-  text-align: center;
+
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
   display: inline-block;
-  display: center;
+
 } /* This pulls the numbers for the order list to the center */
 
 * {
@@ -53,9 +53,13 @@ h3 {
 } /* This assigns the font "Arial" and the desired font size to the third most important header */
 
 * {
-  height: auto; 
-} /* assigns height property to auto like I wanted without this setting */
-
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  margin: -100px 0 0 -100px;
+} 
 a:link    { color: #8b008b;  }
 a:visited { color: #872657;   }
 a:hover   { color: #9932cc; }

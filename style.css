@@ -73,3 +73,11 @@ a:link    { color: #8b008b;  }
 a:visited { color: #872657;   }
 a:hover   { color: #9932cc; }
 a:active  { color: #e75480;  }
+
+body {
+  margin: 0;
+  background-image: url(speedforcebackground.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding: 5px;
+}

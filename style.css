@@ -56,6 +56,19 @@ h3 {
   height: auto;
   margin: auto;
 } 
+
+.blockcenter {
+  display:block;
+  background: #00D8D8;
+  padding: 15px;
+  margin:0 auto;
+  margin-left:auto;
+  margin-right:auto;
+  width: 65%;
+  justify-content:center;
+  border-radius: 25px;
+  border: solid black 5px;
+}
 a:link    { color: #8b008b;  }
 a:visited { color: #872657;   }
 a:hover   { color: #9932cc; }

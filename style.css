@@ -75,9 +75,11 @@ a:hover   { color: #9932cc; }
 a:active  { color: #e75480;  }
 
 body {
-  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
   background-image: url(neontunnel.jpg);
-  background-size:cover;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   padding: 5px;
 }
